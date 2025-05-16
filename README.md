@@ -21,13 +21,7 @@ This is a simple desktop application built with Python and tkinter for managing 
     *   Ensure you have Python 3.x installed on your system. tkinter is usually included with Python installations.
 2.  **Obtain the Project Files:**
     *   Download or clone the project files to your local machine. You should have at least `Gym_system.py` and `database.py`.
-3.  **Run the Application:**
-    *   Open a terminal or command prompt, navigate to the directory where the project files are located, and run the following command:
-```
-bash
-        python Gym_system.py
-        
-```
+      
 **Usage:**
 1.  When the application starts, a login window will appear. Use the following default credentials:
     *   **Username:** `admin`
